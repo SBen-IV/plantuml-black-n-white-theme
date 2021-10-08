@@ -12,7 +12,7 @@
 !endif
 
 !if (%not(%variable_exists("$FONTSIZE")))
-!$FONTSIZE = 12
+!$FONTSIZE = 18
 !endif
 
 !$ACCENT = "#2a86e2"
