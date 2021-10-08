@@ -6,7 +6,7 @@
 
 ## How to use
 
-Add the following line between `@startuml` and `@enduml`:
+Add the `!theme` line between `@startuml` and `@enduml`:
 
 ```
 @startuml
@@ -18,7 +18,7 @@ Add the following line between `@startuml` and `@enduml`:
 @enduml
 ```
 
-or you can download `puml-theme-black-n-white.puml` file and use locally:
+or you can download the `puml-theme-black-n-white.puml` file and use locally:
 
 ```
 @startuml
